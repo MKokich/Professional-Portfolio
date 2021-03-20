@@ -11,6 +11,11 @@ a:hover {
     
 }
 
+h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
 body {
     background-image: url(image.jpg);
     background-size: cover;
@@ -98,7 +103,3 @@ body {
     
 }
 
-h1 {
-    text-align: center;
-    margin-top: 10px;
-}
