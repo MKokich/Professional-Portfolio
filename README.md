@@ -13,3 +13,5 @@ Site deploys properly and efficiently from live site link and is easily accessib
 [Professional Portfolio](https://mkokich.github.io/Professional-Portfolio/)
 
 ## Screenshot of Main Page
+
+![Screenshot of Portfolio page](https://user-images.githubusercontent.com/75143471/111929118-b2774d80-8a72-11eb-9541-d21f422c5300.png)
