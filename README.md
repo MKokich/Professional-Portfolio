@@ -10,6 +10,6 @@ Site deploys properly and efficiently from live site link and is easily accessib
 
 ## Link to Live Site
 
-[Code Quiz Link](https://mkokich.github.io/Code-Quiz/)
+[Professional Portfolio](https://mkokich.github.io/Professional-Portfolio/)
 
 ## Screenshot of Main Page
