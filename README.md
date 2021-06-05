@@ -14,4 +14,4 @@ Site deploys properly and efficiently from live site link and is easily accessib
 
 ## Screenshot of Main Page
 
-![Screenshot of Portfolio page](https://user-images.githubusercontent.com/75143471/111929118-b2774d80-8a72-11eb-9541-d21f422c5300.png)
+![image](https://user-images.githubusercontent.com/75143471/120906942-61f3a300-c612-11eb-9322-90885afa6d06.png)
